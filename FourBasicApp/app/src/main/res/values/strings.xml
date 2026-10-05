@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_title">Four Basic Operations</string>
+    <string name="app_name">FourBasicApp</string>
+    <string name="hint_number1">Enter first number</string>
+    <string name="hint_number2">Enter second number</string>
+    <string name="result_label">Result: </string>
+    <string name="btn_add">+</string>
+    <string name="btn_subtract">-</string>
+    <string name="btn_multiply">*</string>
+    <string name="btn_divide">/</string>
+</resources>
