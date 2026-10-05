@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.idea/
+FourBasicApp/.gradle/
+FourBasicApp/build/
+FourBasicApp/app/build/
+FourBasicApp/local.properties
